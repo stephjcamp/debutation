@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <style>body 
+   .header {background-image: linear-gradient(to bottom right, lightpink, pink, violet, darkviolet); font-size: 40px; color: floralwhite; padding: 25px; text-align: center;}
+  .p {font-size: 18px;}
+</style> 
+ </head>
+ <style>
+  a { color:pink; }
+</style>
+ <body>
+ 	  <h1 class="header"> Taylor Swift Albums</h1>
+ 	  <div class="wrap">
+ 	  <figure>	
+<img src="logo eras tour .jpg" width="300px" height="500px">
+</figure>
+<style>
+  img {animation-name: slide-left; animation-duration: 4s}
+  @keyframes slide-left {
+    from { margin-left:100%; width: 300%}
+    to {
+    margin-left: 0%;
+    width: 100%;}
+  }
+</style>
+<figcaption class="logo"> The Eras Tour logo, 2023-2024 </figcaption>
+</div>
+<style>
+ .wrap {
+   float: right; margin-right: 40px;}
+  .logo {margin-left: 48px; font-style: italic;}
+</style>
+    <p class="p"> Taylor Swift had her debut in 2006, at 16 years old, with her self-titled album. Since then, she has consistenly released a new album every two years. She is the first and only artist in history to have won Album of the Year at the Grammys four times, for the albums Fearless, 1989, folklore, and Midnights. In 2023, she began what would soon become the highest grossing stadium tour of all time, called "The Eras Tour". A 3.5 hour musical spectacle, in this tour Taylor celebrates 17 years of music by singing a selection of hits and album-tracks from every single one of her records. See the full chronological list of her albums below: </p>
+ 	<div class="h2">
+ 		<h2>Albums</h2>
+ 		<style>body
+ 		.h2 {
+ 			color: pink;
+ 		}
+</style>
+</div>
+<body>
+ 	<li><a href="https://genius.com/albums/Taylor-swift/Taylor-swift">Taylor Swift</a>(2006)</li>
+ 	<li><a href="https://genius.com/albums/Taylor-swift/Fearless"> Fearless </a>(2008)</li>
+ 	<li><a href="https://genius.com/albums/Taylor-swift/Speak-now-deluxe"> Speak Now </a>(2010)</li>
+ 	<li>Red (2012)</li>
+ 	<li>1989 (2014)</li>
+ 	<li>Reputation (2017)</li>
+ 	<li>Lover (2019)</li>
+ 	<li>Folklore (2020)</li>
+ 	<li>Evermore (2020)</li>
+ 	<li>Fearless (Taylor's Version) (2021)</li>
+ 	<li>Red (Taylor's Version) (2021)</li>
+ 	<li>Midnights (2022)</li>
+ 	<li>Speak Now (Taylor's Version) (2023)</li>
+ 	<li>1989 (Taylor's Version)</li>
+  <li><a href="https://www.taylorswift.com">The Tourtured Poets Department</a> (April 2024)</li>
+ </ol>
+</body>
+<body>
+</body>
+<body>
+  <div class="h3">
+    <h3>Reputation (taylor's version) releasing next?</h3>
+    <style>body
+    .h3 {
+      color: darkgreen;
+      font-weight: bold;
+    }
+  </style>
+</div>
+</body>
+<body>
+  <p> Disney Superbowl Commercial: ...ready for it? and mentioned snakes</p>
+  <p> Duolingo Instagram post: same cover art</p>
+  <p> Travis Kelce superbowl outfit (black glittery suit) and she wore all black</p>
+  <p> Times Person of the Year 2023 cover art</p>
+  <p> Profile picture black and white</p>
+  <p> Taylor Swift website source code when website crashed had code words in different languages</p>
+    <ol>Chairman, bruises, veins, candace, apple cake, talisman, love bombs, muse, ink, evidence, fake
+    </ol>
+    <FRAMESET COLS="*,*,*,*">
+  <iframe src="TS11-1.jpeg" width="340" height="340"> </iframe> 
+  <iframe SRC="TS11-2.jpeg" width="340" height="340"> </iframe>
+  <iframe SRC="TS11-3.jpeg" width="340" height="340"> </iframe>
+  <iframe src="TS-4.jpeg" width="340" height="340"> </iframe>
+  <legend class="legend">The four different versions of The Tortured Poets Department: The Standard, The Manuscript, The Bolter, and The Black Dog.</legend>
+  <style> 
+    .legend {color: black;font-style: italic;}
+  </style>
+</FRAMESET>
+</table>
+  </style>
+</FRAMESET>
+<div>
+<table>
+  <tr>
+    <td>Tour</td>
+    <th> Fearless Tour</th>
+    <th> Speak Now Tour</th>
+    <th> RED Tour</th> 
+    <th> 1989 Tour</th>
+    <th> reputation stadium tour </th>
+    <th> The Eras Tour </th>
+  </tr>
+  <tr>
+    <td>Total shows</td>
+    <th> 116 shows </th>
+    <th> 110 showhs </th>
+    <th> 86 shows </th>
+    <th> 85 shows </th>
+    <th> 53 shows </th>
+    <th> 152 shows </th>
+  </tr>
+  <tr>
+    <td> Box Office </td>
+    <th> 66.5 million </th>
+    <th> 123.7 mllion </th> 
+    <th> 150.2 million </th>
+    <th> 250.7 million </th>
+    <th> 345.7 million </th>
+    <th> TBE </th>
+  </tr>
+    <style>
+      td {color: lightpink; font-size: 20px; font-weight: bold; text-align: center; padding-left: 180px; padding-top: 30px}
+      th {padding: 30px; font-weight: lighter; padding-top: 50px}
+    </style>
+  </table>
+</div> 
+</style>
+</table>
+<body>
+  <style> 
+    p {animation-duration: 4s;
+  animation-name: slidein;
+}
+ @keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+   to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+  </style>
+
+</body>
+</body>
+</html>
